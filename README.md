@@ -3,11 +3,13 @@
 **Myriam Bajani | NIST SURF Internship | Summer 2026**  
 Atom Scale Device Group, Physical Measurement Laboratory
 
-![LC resonator prototypes built and tested during the internship](images/resonator-prototypes.png)
+<img src="images/cryostat.png" alt="Cryostat used for the cryogenic RF reflectometry measurements" width="320">
 
 I designed, built, and tested an LC resonator readout circuit to detect small capacitance changes in a semiconductor quantum device. The project combined LTspice modeling, RF hardware testing, and measurements at **10 mK**.
 
 ### My work
+
+![LC resonator prototypes built and tested during the internship](images/resonator-prototypes.png)
 
 - Modeled the resonator in LTspice and refined the model to account for coupling and parasitic capacitance.
 - Built and tested resonator circuits, then reproduced PNA measurements using an OPX and directional coupler.
